@@ -1,0 +1,63 @@
+[Event "NH Chess 5th"]
+[Site "Amsterdam NED"]
+[Date "2010.08.15"]
+[Round "4"]
+[White "Svidler, P."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[Annotator "Saunders, John"]
+[BlackElo "2729"]
+[ECO "B12"]
+[EventCountry "NED"]
+[EventDate "2010.08.12"]
+[EventRounds "10"]
+[Source "www.chess.co.uk"]
+[WhiteElo "2734"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 {[#]} 4.h4 { [One of the more direct ways of meeting the Caro Kann. It has a good database percentage and it is perhaps surprising it doesn't feature more than 3 Nc3 or 3 Nf3.] } 4...h5 5.c4 e6 6.Nc3 Ne7 7.Nge2 ( 7.Bg5 { has had significantly more outings. } ) 7...dxc4 8.Ng3 Bg6 9.Bg5 Qb6 10.Qd2 {[#]} Qb4 ( { This queen move has been played previously by a chess legend but may not be best. Black may need to look at something like } 10...Nd7 $5 { in order to revive this line. } ) 11.a3 Qb3 12.Nge4 ( 12.Rc1 Nd5 13.Nce4 b5 14.Be2 Nd7 15.O-O { was Adams-Karpov, Tilburg 1996, and led to a draw. Svidler's innovation looks sharper. } ) 12...Nd5 ( 12...Bxe4 $5 13.Nxe4 Nd5 14.Rh3 Qa4 15.Rc1 b5 { holds the c-pawn, though White has compensation in terms of a kingside attack, e.g. } 16.Rf3 $5 ) 13.Rh3 Qb6 14.Bxc4 Qa5 15.Nd6+ $5 { [With his lead in development, White doesn't have to commit himself in this way, but he prefers to tighten his grip on the dark squares.] } 15...Bxd6 16.exd6 Nd7 17.Rc1 Nxc3 18.Rcxc3 Nf6 ( 18...O-O $6 { is not really an option, e.g. } 19.Be7 Rfe8 20.Rhg3 { and now White has strong threats such as Bxe6 and Rxg6. } ) 19.b4 Qd8 $2 ( 19...Qf5 $5 { looks more combative, intending to meet } 20.Rhf3 { with } 20...Ne4 $5 { . After the text, Black is thrown onto the defensive. } ) 20.Qf4 Kd7 $2 ( 20...Bf5 { may have been better, but after } 21.Rhe3 O-O 22.Rg3 $1 { , White has a strong kingside attack. } ) 21.Rhe3 Re8 22.b5 Qa5 23.Bxf6 gxf6 24.Kf1 Bf5 25.Be2 Rac8 26.Rc5 { [diagram] [From here it is all one-way traffic.] } 26...Qa4 27.Rec3 a6 28.b6 { [The black queen is now a prisoner in the enemy camp.] } 28...Bg6 29.Qxf6 e5 30.Rxe5 Rxe5 31.dxe5 Re8 32.Re3 Re6 33.Qg5 Qd4 34.Kg1 Be4 ( { White threatens Bxh5 and if } 34...Qxb6 35.Bc4 { will be decisive. } ) 35.Qxh5 Rxe5 36.Qxf7+ Kxd6 37.Qxb7 1-0
+
+[Event "World-ch"]
+[Site "New York"]
+[Date "2016.11.11"]
+[Round "1"]
+[White "Carlsen, Magnus"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[BlackElo "2772"]
+[ECO "A45"]
+[EventCountry "USA"]
+[EventDate "2016.11.11"]
+[EventRounds "12"]
+[EventType "match"]
+[WhiteElo "2853"]
+
+1.d4 Nf6 2.Bg5 d5 3.e3 c5 4.Bxf6 gxf6 {[#]} 5.dxc5 ( 5.Nc3 Nc6 6.Qh5 ) ( 
+5.c3 Qb6 ( 5...Nc6 ) ) 5...Nc6 { comment } 6.Bb5 e6 { comment } 7.c4 dxc4
+8.Nd2 Bxc5 9.Ngf3 O-O 10.O-O Na5 11.Rc1 Be7 12.Qc2 {[#]} Bd7 13.Bxd7 Qxd7 14.Qc3
+Qd5 15.Nxc4 Nxc4 16.Qxc4 Qxc4 17.Rxc4 Rfc8 18.Rfc1 Rxc4 19.Rxc4 Rd8 20.g3 Rd7
+21.Kf1 f5 22.Ke2 Bf6 23.b3 Kf8 24.h3 h6 25.Ne1 Ke7 26.Nd3 Kd8 27.f4 h5 28.a4
+Rd5 29.Nc5 b6 30.Na6 Be7 31.Nb8 a5 32.Nc6+ Ke8 33.Ne5 Bc5 34.Rc3 Ke7 35.Rd3
+Rxd3 36.Kxd3 f6 37.Nc6+ Kd6 38.Nd4 Kd5 39.Nb5 Kc6 40.Nd4+ Kd6 41.Nb5+ Kd7
+42.Nd4 Kd6 1/2-1/2
+
+[Event "London Chess Classic"]
+[Site "London"]
+[Date "2011.12.05"]
+[Round "3"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[Annotator "Saunders, John"]
+[BlackElo "2758"]
+[BlackTeam "Bulgaria"]
+[BlackTeamCountry "BUL"]
+[ECO "C54"]
+[EventCategory "20"]
+[EventCountry "ENG"]
+[EventDate "2011.12.03"]
+[EventRounds "1"]
+[Source "www.chess.co.uk"]
+[WhiteElo "2383"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 d6 6.Bb3 a6 7.Nbd2 Ba7 8.Nf1 h6 9.Ng3 O-O 10.O-O Be6 11.h3 {[#]} Qd7 ( { Of course, Carlsen plays his usual ultra-quiet game (which happens to be an exact translation of the Italian name of the opening: Giuoco Pianissimo). Perhaps Hikaru would have been better off trying to provoke something a bit sharper with } 11...d5 { here. As played, Magnus gradually works his way towards the sort of manoeuvring position he favours. } ) 12.Be3 { "I was pretty happy to get in Be3" (Carlsen) } 12...Ne7 13.Nh4 {[#]} Ng6 ( { When you've played h3, you always have to make sure you are in control if your opponent plays } 13...Bxh3 { . In this case, White's plan is to continue } 14.Bxa7 Rxa7 15.gxh3 Qxh3 16.Ng2 $1 ( 16.Nf3 $2 { loses to } 16...Ng6 $1 ) 16...Ng4 17.Re1 Qh2+ 18.Kf1 Qh3 { and now } 19.f3 $1 { secures White a winning advantage. Both players had foreseen this. However, the move played is also a little suspect as it cedes White a tiny plus. And a tiny plus is sometimes all Magnus Carlsen needs to work on. } ) 14.Nhf5 Ne7 15.Nxe7+ Qxe7 16.Bxa7 Rxa7 17.f4 c5 { "I think it's easier to play for White" (Carlsen). Nakamura later admitted he spent too much time thinking around moves 14 and 15 - a sign that he wasn't in his comfort zone. } 18.Bc2 $5 ( { Magnus said he was thinking about } 18.a4 { instead, while Vlad Kramnik expressed surprise that he should have retreated his bishop from b3. My analysis engine is a little surprised too. Perhaps it is these small, filigree differences between Magnus and the other top players which define his unique style. } ) 18...b5 19.Qd2 Rb7 20.a3 a5 21.Rf2 { [diagram] "I think this position should be fine. I'm a little confused as to what happened" (Nakamura). Incidentally, it was very good of Hikaru to come to the commentary room after his defeat, and honest of him to make such a candid confession. } 21...b4 22.axb4 axb4 23.Raf1 bxc3 24.bxc3 exf4 25.Rxf4 Nh7 26.d4 cxd4 27.cxd4 Qg5 28.Kh2 Nf6 29.Bd1 Rfb8 ( { "I guess it's losing. It's a little bit strange," said a bemused Nakamura in the commentary, still unable to understand quite why he lost. He had seen the exchange sacrifice coming but wasn't concerned about it during the game. It would be no consolation but chess engines don't seem to understand this position either. Nakamura wondered about } 29...Ra8 { so that if } 30.h4 { Black can play } 30...Qa5 { and offer a queen exchange. } ) ( 29...Ng4+ $5 { was another Nakamura suggestion in the commentary room. } ) 30.h4 Qg6 { [diagram] } 31.Rxf6 $1 { Not conclusive by any means but it complicates the game and gives Magnus the sort of game he likes to play. For the exchange, White has weakened the black pawns and he will have some dangerous piece play against Nakamura's king and queen. Meanwhile the two black rooks are some way from reaching posts where they can threaten retribution. } 31...gxf6 32.Qf4 ( 32.d5 Bd7 33.Qc3 { is what the computer advocates here but 'Deep Carlsen' has other ideas. } ) 32...Rb2 ( { Nakamura's instincts are to seek activity but with hindsight one wonders whether he might have been better off digging in with a move like } 32...Rd8 { . } ) 33.Bh5 Qg7 34.Bf3 Ra8 $2 ( { Hikaru starts to wilt under pressure of clock and position. } 34...Rd8 35.Nh5 Qg6 36.d5 Bc8 37.Nxf6+ { is good for White but Black is still in the game. } ) 35.d5 Bc8 36.Nh5 Qf8 ( 36...Qg6 37.Qxd6 { is also very difficult for Black. } ) 37.Nxf6+ Kh8 { [diagram] If you count the material, Black is still OK but the black king is very weak while its opposite number is rock solid. } 38.Rc1 $1 { It seems a little ironic, because White only has one rook to his opponent's two, but the c1 rook packs the more powerful punch. It's coming to c7, to threaten Rxf7 followed by Qxh6+ and mate, or Rc6 and simply Rxd6. } 38...Kg7 ( { If, for example, the a8 rook moves forward with } 38...Ra6 { , then White plays } 39.Rxc8 $1 { followed by 40 Qxh6 mate. } ) 39.e5 $1 { Opening the long diagonal but also giving his bishop the use of the e4 square. The black pieces find themselves out of play and the end is in sight. } 39...dxe5 40.Nh5+ ( 40.Qxe5 { wins in much the same way. } ) 40...Kh7 41.Be4+ ( 41.Be4+ Kg8 42.Qg3+ Kh8 43.Qxe5+ f6 44.Qxb2 { is crushing. } ) 1-0
+
