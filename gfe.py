@@ -42,7 +42,8 @@ E. Tests
 F. Release notes
 
 1. Release date: 2017-03-20
-2. Files: 
+2. Version no.:  1.0
+3. Files: 
    a. gfe.py
    b. gfe.exe
    c. run_gfe.bat
