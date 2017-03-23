@@ -298,7 +298,6 @@ def main(argv):
             if com == '[#]':
                 write_node(fen, game_node, game, temp_pgn_fn)
             game_node = next_node
-        print
         game = chess.pgn.read_game(pgnh)
     pgnh.close()
 
