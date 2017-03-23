@@ -38,7 +38,6 @@ E. Tests
 1. The script is tested under Windows 7
 
 
-
 F. Release notes
 
 1. Release date: 2017-03-20
@@ -67,17 +66,17 @@ def write_node(fen, game_pos, game, pgn_out_fn):
     # starting move nb will be renumbered to 1
     new_fen = ' '.join(fen.split()[0:4]) + ' 0 1'
 
-    # Print headers of the original game
+    # Print all headers of the original game
+    for k, v in game.headers.items():
+        if k == 'SetUp' or k == 'FEN':
+            continue
+        with open(pgn_out_fn, 'a') as f:
+            f.write('[%s \"%s\"]\n' %(k, v))
+            
+    # Print the revised FEN
     with open(pgn_out_fn, 'a') as f:
-        f.write('[Event \"%s\"]\n' %(game.headers['Event']))
-        f.write('[Site \"%s\"]\n' %(game.headers['Site']))
-        f.write('[Date \"%s\"]\n' %(game.headers['Date']))
-        f.write('[Round \"%s\"]\n' %(game.headers['Round']))
-        f.write('[White \"%s\"]\n' %(game.headers['White']))
-        f.write('[Black \"%s\"]\n' %(game.headers['Black']))
-        f.write('[Result \"%s\"]\n' %(game.headers['Result']))
         f.write('[SetUp "1"]\n')
-        f.write('[FEN \"%s\"]\n\n' %(new_fen))
+        f.write('[FEN \"%s\"]\n\n' %(new_fen)) 
 
     # (1) Process main line
     game_node = game_pos
