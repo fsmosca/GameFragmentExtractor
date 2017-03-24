@@ -243,7 +243,7 @@ def usage():
         
 def main(argv):
    
-   print('%s v%s\n' %(APP_NAME, APP_VER))
+    print('%s v%s\n' %(APP_NAME, APP_VER))
     
     pgn_in_fn = None
     pgn_out_fn = None
