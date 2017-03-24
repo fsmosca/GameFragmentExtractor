@@ -40,8 +40,8 @@ E. Tests
 
 F. Release notes
 
-1. Release date: 2017-03-20
-2. Version no.:  1.0
+1. Release date: 2017-03-25
+2. Version no.:  1.1
 3. Files: 
    a. gfe.py
    b. gfe.exe
@@ -57,6 +57,10 @@ import getopt
 import subprocess
 import chess
 from chess import pgn
+
+
+APP_NAME = 'Game Fragment Extractor'
+APP_VER = '1.1'
 
 
 def write_node(fen, game_pos, game, pgn_out_fn):
@@ -238,6 +242,8 @@ def usage():
 
         
 def main(argv):
+   
+   print('%s v%s\n' %(APP_NAME, APP_VER))
     
     pgn_in_fn = None
     pgn_out_fn = None
